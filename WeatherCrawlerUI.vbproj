@@ -154,7 +154,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WeatherCrawler\WeatherCrawler.vbproj">
+    <ProjectReference Include="..\dotNet_Lib_WeatherCrawler\WeatherCrawler.vbproj">
       <Project>{3845e21e-a50e-4bb8-a040-2758180ed31c}</Project>
       <Name>WeatherCrawler</Name>
     </ProjectReference>
